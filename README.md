@@ -11,4 +11,4 @@
 - ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me. 
 <!-- 🔭 Tag: "Your contribution, worlds motivation" ... -->
 
-<img src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&show_icons=true&title_color=be5683&icon_color=60950d&text_color=ffe4e4&bg_color=93b5e1">
+<img src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&show_icons=true&title_color=be5683&icon_color=cf1b1b&text_color=ffe4e4&bg_color=93b5e1">
