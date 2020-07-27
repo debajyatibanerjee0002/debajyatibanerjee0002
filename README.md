@@ -1,9 +1,9 @@
-### Hello devs,👋 I'm Debajyati Banerjee
+### Hey buddies!!!👋 I'm Debajyati Banerjee
 
 <!--
+<!-- - 👯 I’m looking to collaborate on ... -->
 - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning flutter & dart 
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with app architechture
 - 💬 Ask me about anything...if in my knowledge i'll help you.
 - 📫 How to reach me: ✔️[facebook](https://www.facebook.com/profile.php?id=100009291152517?ref=bookmarks) ✔️[Linkedin](https://www.linkedin.com/in/debajyati-banerjee-794171190/) ✔️[Twitter](https://twitter.com/DebajyatiBaner1)
