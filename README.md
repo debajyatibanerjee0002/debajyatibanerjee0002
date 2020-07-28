@@ -17,7 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 <a href="https://github.com/debajyatibanerjee0002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&bg_color=c4fb6d&hide_langs_below=1" />
 </a>
 <a href="https://github.com/debajyatibanerjee0002">
 <img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&show_icons=true&title_color=423144&icon_color=cf1b1b&text_color=206a5d&bg_color=93b5e1">
