@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning flutter & dart 
 - 🤔 I’m looking for help with app architechture
 - 💬 Ask me about anything...if in my knowledge i'll help you.
-- 📫 How to reach me: ✔️[facebook](https://www.facebook.com/profile.php?id=100009291152517?ref=bookmarks) ✔️[Linkedin](https://www.linkedin.com/in/debajyati-banerjee-794171190/) ✔️[Twitter](https://twitter.com/DebajyatiBaner1)
+- 📫 How to reach me: ✔️[facebook](https://www.facebook.com/profile.php?id=100009291152517?ref=bookmarks) ✔️[Linkedin](https://www.linkedin.com/in/debajyati-banerjee-794171190/) ✔️[Twitter](https://twitter.com/DebajyatiBaner1) ✔️[Insta](https://instagram.com/debajyati_banerjee)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me. 
 <!-- 🔭 Tag: "Your contribution, worlds motivation" ... -->
