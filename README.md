@@ -23,4 +23,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/debajyatibanerjee0002">
-<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&show_icons=true&title_color=423144&icon_color=cf1b1b&text_color=206a5d&bg_color=b6eb7a">
+<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&show_icons=true&title_color=423144&icon_color=cf1b1b&text_color=206a5d&bg_color=baf1a1">
