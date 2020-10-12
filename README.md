@@ -32,4 +32,4 @@
   <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif.gif" height=280 width=280/>
 </a>
 <a href="https://github.com/debajyatibanerjee0002">
-<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&theme=dark&show_icons=true">
+<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&count_private=true&theme=dark&show_icons=true">
