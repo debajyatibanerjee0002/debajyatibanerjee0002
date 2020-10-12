@@ -14,6 +14,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me. 
 <!-- 🔭 Tag: "Your contribution, worlds motivation" ... -->
+<img src="https://komarev.com/ghpvc/?username=debajyatibanerjee0002&style=flat-square"/>
 <img align="right" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/master/Gif.gif" height=300 width=300/>
 **Languages, Tools & Platform:**  
 
