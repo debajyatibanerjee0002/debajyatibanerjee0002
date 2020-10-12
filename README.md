@@ -39,7 +39,7 @@
     <tr>
 </a>
 <a href="https://github.com/debajyatibanerjee0002">
-<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1"> 
+<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true"> 
  </tr>
 </table>
 </a>
