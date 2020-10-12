@@ -27,9 +27,19 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+<table>
+    <tr>
+        <td>
 <a href="https://github.com/debajyatibanerjee0002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
+          </td>
+        <td rowspan=2>
   <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif.gif" height=280 width=280/>
+          </tr>
+    <tr>
 </a>
 <a href="https://github.com/debajyatibanerjee0002">
-<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1"> </a>
+<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1"> 
+ </tr>
+</table>
+</a>
