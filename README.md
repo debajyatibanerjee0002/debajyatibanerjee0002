@@ -28,8 +28,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 <a href="https://github.com/debajyatibanerjee0002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&show_icons=true&title_color=cd0a0a&icon_color=cd0a0a&text_color=16213e&bg_color=ffffff&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&show_icons=true&theme=dark&title_color=cd0a0a&icon_color=cd0a0a&text_color=16213e&bg_color=ffffff&hide_langs_below=1" />
   <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif.gif" height=280 width=280/>
 </a>
 <a href="https://github.com/debajyatibanerjee0002">
-<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&show_icons=true&bg_color=40,baf1a1,07689f&title_color=cd0a0a&icon_color=cf1b1b&text_color=206a5d">
+<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&theme=dark&show_icons=true&bg_color=40,baf1a1,07689f&title_color=cd0a0a&icon_color=cf1b1b&text_color=206a5d">
