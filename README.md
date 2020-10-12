@@ -29,8 +29,8 @@
 
 <a href="https://github.com/debajyatibanerjee0002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&show_icons=true&title_color=cd0a0a&icon_color=cd0a0a&text_color=16213e&bg_color=ffffff&hide_langs_below=1" />
-  <img src="https://komarev.com/ghpvc/?username=debajyatibanerjee0002&style=flat-square"/>
-<img align="right" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif.gif" height=300 width=300/>
 </a>
 <a href="https://github.com/debajyatibanerjee0002">
 <img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&&show_icons=true&bg_color=40,baf1a1,07689f&title_color=cd0a0a&icon_color=cf1b1b&text_color=206a5d">
+<img src="https://komarev.com/ghpvc/?username=debajyatibanerjee0002&style=flat-square"/>
+<img align="right" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif.gif" height=300 width=300/> </a>
