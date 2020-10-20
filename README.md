@@ -36,10 +36,10 @@
         <td
 <a href="https://github.com/debajyatibanerjee0002">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
-      <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif2.gif" height=280 width=280/>
           </td>
-        <td rowspan=2>
+        <td rowspan=3>
   <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif1.gif" height=280 width=280/>
+  <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif2.gif" height=280 width=280/>
           </tr>
     <tr>
 </a>
