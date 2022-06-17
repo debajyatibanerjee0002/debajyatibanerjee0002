@@ -13,7 +13,7 @@
 <!--   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <!--   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> -->
 - 🌱 I’m currently learning J2EE & ORACLE
-- 🤔 I’m looking for help with app architechture
+- 🤔 I’m looking for help with J2EE, SERVLET, API
 - 💬 Ask me about anything...if in my knowledge i'll help you.
 - 📫 How to reach me: ✔️[Linkedin](https://www.linkedin.com/in/debajyati-banerjee-794171190/) ✔️[Twitter](https://twitter.com/DebajyatiBaner1) ✔️[Instagram](https://instagram.com/debajyati_banerjee)
 - 😄 Pronouns: he/him
@@ -31,23 +31,23 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> -->
 
 <table>
     <tr>
         <td>
-<a href="https://github.com/debajyatibanerjee0002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
-          </td>
-        <td rowspan=2>
-  <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif2.gif" height=280 width=280/>
-          </tr>
-    <tr>
-</a>
-<a href="https://github.com/debajyatibanerjee0002">
-<img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true"> 
- </tr>
+    <a href="https://github.com/debajyatibanerjee0002">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
+        </td>
+            <td rowspan=2>
+      <img align="center" alt="GIF" src="https://github.com/debajyatibanerjee0002/debajyatibanerjee0002/blob/master/Gif2.gif" height=280 width=280/>
+              </tr>
+        <tr>
+    </a>
+    <a href="https://github.com/debajyatibanerjee0002">
+    <img align="center" src= "https://github-readme-status.vercel.app/api?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true"> 
+   </tr>
 </table>
 </a>
