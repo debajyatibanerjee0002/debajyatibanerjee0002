@@ -17,7 +17,7 @@
 - 💬 Ask me about anything...if in my knowledge i'll help you.
 - 📫 How to reach me: ✔️[Linkedin](https://www.linkedin.com/in/debajyati-banerjee-794171190/) ✔️[Twitter](https://twitter.com/DebajyatiBaner1) ✔️[Instagram](https://instagram.com/debajyati_banerjee)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Right now I'm looking at you, 'cause you're looking at me.
+- ⚡ Fun fact: Right now I'm not looking at you, but you're looking at me and smiling.
   <!-- 🔭 Tag: "Your contribution, worlds motivation" ... -->
   
   <img src="https://komarev.com/ghpvc/?username=debajyatibanerjee0002&style=flat-square"/>
