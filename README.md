@@ -27,10 +27,5 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
       </a>
     </td>
-    <td>
-      <a href="https://debajyatibanerjee0002.github.io/debajyati/">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debajyatibanerjee0002&count_private=true&theme=dark&show_icons=true&hide_langs_below=1" />
-      </a>
-    </td>
   </tr>
 </table>
